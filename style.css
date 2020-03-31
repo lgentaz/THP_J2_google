@@ -116,6 +116,9 @@ input{
 	height: 34px;
 	width: 400px;
 	font-size: 16px;
+}
+
+input:active{
 	border:none;
 }
 
